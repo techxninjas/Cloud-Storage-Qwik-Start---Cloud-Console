@@ -26,11 +26,11 @@
    ```
 
 4.  **Now, run the following commands in Cloud Shell**  
-   ```bash
-   curl -LO raw.githubusercontent.com/techxninjas/Cloud-Storage-Qwik-Start---Cloud-Console/main/TechXNinjas.sh
-   sudo chmod +x TechXNinjas.sh
-   ./TechXNinjas.sh
-   ```
+      ```bash
+      curl -LO raw.githubusercontent.com/techxninjas/Cloud-Storage-Qwik-Start---Cloud-Console/main/TechXNinjas.sh
+      sudo chmod +x TechXNinjas.sh
+      ./TechXNinjas.sh
+      ```
 
 > ⚠️ *Ensure your Cloud Skills Boost lab is active before executing the script.*
 
