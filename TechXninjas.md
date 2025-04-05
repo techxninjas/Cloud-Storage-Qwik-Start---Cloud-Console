@@ -27,9 +27,9 @@
 
 3. **Now, run the following commands in Cloud Shell**  
    ```bash
-   curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Storage%20Qwik%20Start%20-%20Cloud%20Console/gsp073.sh
-   sudo chmod +x gsp073.sh
-   ./gsp073.sh
+   curl -LO raw.githubusercontent.com/techxninjas/Cloud-Storage-Qwik-Start---Cloud-Console/main/TechXNinjas.sh
+   sudo chmod +x TechXNinjas.sh
+   ./TechXNinjas.sh
    ```
 
 > ⚠️ *Ensure your Cloud Skills Boost lab is active before executing the script.*
