@@ -38,8 +38,6 @@ gsutil cp gs://$DEVSHELL_PROJECT_ID/kitten.png gs://$DEVSHELL_PROJECT_ID/image-f
 
 gsutil iam ch allUsers:objectViewer gs://$DEVSHELL_PROJECT_ID
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
-
 #-----------------------------------------------------end----------------------------------------------------------#
 
 echo "${GREEN_TEXT}${BOLD_TEXT}╔════════════════════════════════════════════════════════╗${RESET_FORMAT}"
@@ -47,4 +45,6 @@ echo "${GREEN_TEXT}${BOLD_TEXT}              Lab Completed Successfully!        
 echo "${GREEN_TEXT}${BOLD_TEXT}╚════════════════════════════════════════════════════════╝${RESET_FORMAT}"
 echo
 echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe our Channel:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@TechXNinjas${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Join our WhatsApp Group:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://chat.whatsapp.com/B7uNN97yIwRHQnlYux2Tmn${RESET_FORMAT}"
+echo -e "${RED_TEXT}${BOLD_TEXT}Follow me on LinkedIn:${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.linkedin.com/in/iaadillatif/${RESET_FORMAT}"
 echo
