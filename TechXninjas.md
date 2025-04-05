@@ -1,5 +1,5 @@
 # ✨ Cloud Storage: Qwik Start - Cloud Console || GSP073  
-[![Lab Link](https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/focuses/1760?parent=catalog)
+[![Lab Link](https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/games/6058/labs/38571)
 
 ---
 
