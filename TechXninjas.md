@@ -20,14 +20,17 @@
    - Click on the **Cloud Shell icon** (📟) at the top-right corner  
    - Wait for the terminal to open at the bottom of the screen
 
-2. **Now, run the following commands in Cloud Shell**  
+2. **Run this command with your REGION (Check in Lab) in Cloud Shell**
+   ```bash
+   export REGION=
+   ```
+
+4.  **Now, run the following commands in Cloud Shell**  
    ```bash
    curl -LO raw.githubusercontent.com/techxninjas/Cloud-Storage-Qwik-Start---Cloud-Console/main/TechXNinjas.sh
    sudo chmod +x TechXNinjas.sh
    ./TechXNinjas.sh
    ```
-
-3. **Enter your Region (Check in Lab) in Cloud Shell**  
 
 > ⚠️ *Ensure your Cloud Skills Boost lab is active before executing the script.*
 
